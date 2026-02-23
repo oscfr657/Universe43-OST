@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project version="1.0" creatorversion="1.2.2" creator="LMMS" type="song">
+  <head timesig_denominator="4" timesig_numerator="4" bpm="120" masterpitch="0" mastervol="100"/>
+  <song>
+    <trackcontainer x="5" maximized="0" width="651" visible="1" height="313" y="5" minimized="0" type="song">
+      <track solo="0" name="Kicker" muted="0" type="0">
+        <instrumenttrack fxch="0" usemasterpitch="1" pan="0" basenote="61" pitch="0" vol="50" pitchrange="1">
+          <instrument name="kicker">
+            <kicker decay_syncmode="0" gain="1" version="1" startfreq="150" decay_numerator="4" dist="0.80000001" env="0.163" click="0.40000001" endfreq="40" decay_denominator="4" distend="0.80000001" slope="0.059999999" startnote="1" noise="0" endnote="0" decay="440"/>
+          </instrument>
+          <eldata fres="0.5" ftype="0" fwet="0" fcut="14000">
+            <elvol lspd_denominator="4" att="0" dec="0.5" lamt="0" lspd_syncmode="0" lpdel="0" lspd_numerator="4" lshp="0" latt="0" x100="0" sustain="0.5" ctlenvamt="0" hold="0.5" rel="0.1" amt="0" pdel="0" lspd="0.1" userwavefile=""/>
+            <elcut lspd_denominator="4" att="0" dec="0.5" lamt="0" lspd_syncmode="0" lpdel="0" lspd_numerator="4" lshp="0" latt="0" x100="0" sustain="0.5" ctlenvamt="0" hold="0.5" rel="0.1" amt="0" pdel="0" lspd="0.1" userwavefile=""/>
+            <elres lspd_denominator="4" att="0" dec="0.5" lamt="0" lspd_syncmode="0" lpdel="0" lspd_numerator="4" lshp="0" latt="0" x100="0" sustain="0.5" ctlenvamt="0" hold="0.5" rel="0.1" amt="0" pdel="0" lspd="0.1" userwavefile=""/>
+          </eldata>
+          <chordcreator chordrange="1" chord="0" chord-enabled="0"/>
+          <arpeggiator arpcycle="0" arp-enabled="0" arptime_numerator="4" arptime_denominator="4" arpdir="0" arp="0" arptime_syncmode="0" arpgate="100" arprange="1" arpskip="0" arpmiss="0" arptime="200" arpmode="0"/>
+          <midiport outputcontroller="0" outputchannel="1" readable="0" fixedinputvelocity="-1" fixedoutputvelocity="-1" fixedoutputnote="-1" inputcontroller="0" basevelocity="63" writable="0" outputprogram="1" inputchannel="0"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern pos="0" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="192" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="384" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="576" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="768" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="960" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="1152" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="1344" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="1920" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="1536" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="1920" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="2112" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="1728" name="Kicker" muted="0" steps="16" type="1">
+          <note pos="36" pan="0" key="55" len="48" vol="129"/>
+          <note pos="48" pan="0" key="61" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="120" pan="0" key="65" len="48" vol="129"/>
+          <note pos="144" pan="0" key="63" len="48" vol="129"/>
+        </pattern>
+      </track>
+      <track solo="0" name="Takt/Basgång 0" muted="0" type="1">
+        <bbtrack>
+          <trackcontainer x="659" maximized="0" width="700" visible="1" height="311" y="6" minimized="0" type="bbtrackcontainer">
+            <track solo="0" name="Kicker" muted="0" type="0">
+              <instrumenttrack fxch="0" usemasterpitch="1" pan="0" basenote="57" pitch="0" vol="100" pitchrange="1">
+                <instrument name="kicker">
+                  <kicker decay_syncmode="0" gain="1" version="1" startfreq="150" decay_numerator="4" dist="0.80000001" env="0.163" click="0.40000001" endfreq="40" decay_denominator="4" distend="0.80000001" slope="0.059999999" startnote="1" noise="0.07" endnote="0" decay="440"/>
+                </instrument>
+                <eldata fres="0.5" ftype="0" fwet="0" fcut="14000">
+                  <elvol lspd_denominator="4" att="0" dec="0.5" lamt="0" lspd_syncmode="0" lpdel="0" lspd_numerator="4" lshp="0" latt="0" x100="0" sustain="0.5" ctlenvamt="0" hold="0.5" rel="0.1" amt="0" pdel="0" lspd="0.1" userwavefile=""/>
+                  <elcut lspd_denominator="4" att="0" dec="0.5" lamt="0" lspd_syncmode="0" lpdel="0" lspd_numerator="4" lshp="0" latt="0" x100="0" sustain="0.5" ctlenvamt="0" hold="0.5" rel="0.1" amt="0" pdel="0" lspd="0.1" userwavefile=""/>
+                  <elres lspd_denominator="4" att="0" dec="0.5" lamt="0" lspd_syncmode="0" lpdel="0" lspd_numerator="4" lshp="0" latt="0" x100="0" sustain="0.5" ctlenvamt="0" hold="0.5" rel="0.1" amt="0" pdel="0" lspd="0.1" userwavefile=""/>
+                </eldata>
+                <chordcreator chordrange="1" chord="0" chord-enabled="0"/>
+                <arpeggiator arpcycle="0" arp-enabled="0" arptime_numerator="4" arptime_denominator="4" arpdir="0" arp="0" arptime_syncmode="0" arpgate="100" arprange="1" arpskip="0" arpmiss="0" arptime="200" arpmode="0"/>
+                <midiport outputcontroller="0" outputchannel="1" readable="0" fixedinputvelocity="-1" fixedoutputvelocity="-1" fixedoutputnote="-1" inputcontroller="0" basevelocity="63" writable="0" outputprogram="1" inputchannel="0"/>
+                <fxchain enabled="0" numofeffects="0"/>
+              </instrumenttrack>
+              <pattern pos="0" name="Kicker" muted="0" steps="16" type="0">
+                <note pos="0" pan="0" key="57" len="-192" vol="100"/>
+                <note pos="48" pan="0" key="57" len="-192" vol="100"/>
+                <note pos="96" pan="0" key="57" len="-192" vol="100"/>
+                <note pos="144" pan="0" key="57" len="-192" vol="100"/>
+              </pattern>
+            </track>
+          </trackcontainer>
+        </bbtrack>
+        <bbtco pos="192" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+        <bbtco pos="0" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+        <bbtco pos="576" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+        <bbtco pos="384" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+        <bbtco pos="768" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+        <bbtco pos="960" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+        <bbtco pos="1152" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+        <bbtco pos="1344" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+        <bbtco pos="1536" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+        <bbtco pos="1728" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+        <bbtco pos="1920" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+        <bbtco pos="2112" name="" muted="0" len="192" color="4286611584" usestyle="1"/>
+      </track>
+      <track solo="0" name="FreeBoy" muted="0" type="0">
+        <instrumenttrack fxch="0" usemasterpitch="1" pan="0" basenote="57" pitch="0" vol="2" pitchrange="1">
+          <instrument name="papu">
+            <papu ch2vsd="0" so1vol="7" ch1so1="1" sd="0" ch2so2="1" st="4" ch3so2="1" ch2so1="1" ch1vsd="0" ch4vol="15" srs="4" ch1wpd="2" sampleShape="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=" srw="0" ch3vol="3" Bass="461" ch2ssl="0" ch1ssl="0" Treble="-20" so2vol="7" ch2vol="15" ch1vol="15" ch4so2="0" ch4so1="0" ch4ssl="0" ch4vsd="0" ch2wpd="2" ch1so2="1" ch3so1="1"/>
+          </instrument>
+          <eldata fres="0.5" ftype="0" fwet="0" fcut="14000">
+            <elvol lspd_denominator="4" att="0" dec="0.5" lamt="0" lspd_syncmode="0" lpdel="0" lspd_numerator="4" lshp="0" latt="0" x100="0" sustain="0.5" ctlenvamt="0" hold="0.5" rel="0.1" amt="0" pdel="0" lspd="0.1" userwavefile=""/>
+            <elcut lspd_denominator="4" att="0" dec="0.5" lamt="0" lspd_syncmode="0" lpdel="0" lspd_numerator="4" lshp="0" latt="0" x100="0" sustain="0.5" ctlenvamt="0" hold="0.5" rel="0.1" amt="0" pdel="0" lspd="0.1" userwavefile=""/>
+            <elres lspd_denominator="4" att="0" dec="0.5" lamt="0" lspd_syncmode="0" lpdel="0" lspd_numerator="4" lshp="0" latt="0" x100="0" sustain="0.5" ctlenvamt="0" hold="0.5" rel="0.1" amt="0" pdel="0" lspd="0.1" userwavefile=""/>
+          </eldata>
+          <chordcreator chordrange="1" chord="0" chord-enabled="0"/>
+          <arpeggiator arpcycle="0" arp-enabled="0" arptime_numerator="4" arptime_denominator="4" arpdir="0" arp="0" arptime_syncmode="0" arpgate="100" arprange="1" arpskip="0" arpmiss="0" arptime="200" arpmode="0"/>
+          <midiport outputcontroller="0" outputchannel="1" readable="0" fixedinputvelocity="-1" fixedoutputvelocity="-1" fixedoutputnote="-1" inputcontroller="0" basevelocity="63" writable="0" outputprogram="1" inputchannel="0"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+        <pattern pos="192" name="FreeBoy" muted="0" steps="16" type="0"/>
+        <pattern pos="0" name="FreeBoy" muted="0" steps="16" type="1">
+          <note pos="0" pan="0" key="66" len="96" vol="129"/>
+          <note pos="0" pan="0" key="62" len="96" vol="129"/>
+          <note pos="48" pan="0" key="57" len="96" vol="129"/>
+          <note pos="48" pan="0" key="55" len="96" vol="129"/>
+          <note pos="48" pan="0" key="52" len="96" vol="129"/>
+          <note pos="96" pan="0" key="65" len="96" vol="129"/>
+          <note pos="144" pan="0" key="57" len="96" vol="100"/>
+          <note pos="144" pan="0" key="55" len="96" vol="100"/>
+          <note pos="144" pan="0" key="52" len="48" vol="129"/>
+          <note pos="192" pan="0" key="65" len="96" vol="129"/>
+          <note pos="240" pan="0" key="62" len="96" vol="129"/>
+          <note pos="240" pan="0" key="59" len="96" vol="129"/>
+          <note pos="240" pan="0" key="57" len="96" vol="129"/>
+          <note pos="240" pan="0" key="52" len="96" vol="129"/>
+          <note pos="288" pan="0" key="65" len="96" vol="129"/>
+          <note pos="336" pan="0" key="62" len="48" vol="129"/>
+          <note pos="336" pan="0" key="57" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="576" name="FreeBoy" muted="0" steps="16" type="0"/>
+        <pattern pos="384" name="FreeBoy" muted="0" steps="16" type="1">
+          <note pos="0" pan="0" key="66" len="96" vol="129"/>
+          <note pos="0" pan="0" key="62" len="96" vol="129"/>
+          <note pos="48" pan="0" key="57" len="96" vol="129"/>
+          <note pos="48" pan="0" key="55" len="96" vol="129"/>
+          <note pos="48" pan="0" key="52" len="96" vol="129"/>
+          <note pos="96" pan="0" key="65" len="96" vol="129"/>
+          <note pos="144" pan="0" key="57" len="96" vol="100"/>
+          <note pos="144" pan="0" key="55" len="96" vol="100"/>
+          <note pos="144" pan="0" key="52" len="48" vol="129"/>
+          <note pos="192" pan="0" key="65" len="96" vol="129"/>
+          <note pos="240" pan="0" key="62" len="96" vol="129"/>
+          <note pos="240" pan="0" key="59" len="96" vol="129"/>
+          <note pos="240" pan="0" key="57" len="96" vol="129"/>
+          <note pos="240" pan="0" key="52" len="96" vol="129"/>
+          <note pos="288" pan="0" key="65" len="96" vol="129"/>
+          <note pos="336" pan="0" key="62" len="48" vol="129"/>
+          <note pos="336" pan="0" key="57" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="768" name="FreeBoy" muted="0" steps="16" type="1">
+          <note pos="0" pan="0" key="66" len="96" vol="129"/>
+          <note pos="0" pan="0" key="62" len="96" vol="129"/>
+          <note pos="48" pan="0" key="57" len="96" vol="129"/>
+          <note pos="48" pan="0" key="55" len="96" vol="129"/>
+          <note pos="48" pan="0" key="52" len="96" vol="129"/>
+          <note pos="96" pan="0" key="65" len="96" vol="129"/>
+          <note pos="144" pan="0" key="57" len="96" vol="100"/>
+          <note pos="144" pan="0" key="55" len="96" vol="100"/>
+          <note pos="144" pan="0" key="52" len="48" vol="129"/>
+          <note pos="192" pan="0" key="65" len="96" vol="129"/>
+          <note pos="240" pan="0" key="62" len="96" vol="129"/>
+          <note pos="240" pan="0" key="59" len="96" vol="129"/>
+          <note pos="240" pan="0" key="57" len="96" vol="129"/>
+          <note pos="240" pan="0" key="52" len="96" vol="129"/>
+          <note pos="288" pan="0" key="65" len="96" vol="129"/>
+          <note pos="336" pan="0" key="62" len="48" vol="129"/>
+          <note pos="336" pan="0" key="57" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="1152" name="FreeBoy" muted="0" steps="16" type="1">
+          <note pos="0" pan="0" key="66" len="96" vol="129"/>
+          <note pos="0" pan="0" key="62" len="96" vol="129"/>
+          <note pos="48" pan="0" key="57" len="96" vol="129"/>
+          <note pos="48" pan="0" key="55" len="96" vol="129"/>
+          <note pos="48" pan="0" key="52" len="96" vol="129"/>
+          <note pos="96" pan="0" key="65" len="96" vol="129"/>
+          <note pos="144" pan="0" key="57" len="96" vol="100"/>
+          <note pos="144" pan="0" key="55" len="96" vol="100"/>
+          <note pos="144" pan="0" key="52" len="48" vol="129"/>
+          <note pos="192" pan="0" key="65" len="96" vol="129"/>
+          <note pos="240" pan="0" key="62" len="96" vol="129"/>
+          <note pos="240" pan="0" key="59" len="96" vol="129"/>
+          <note pos="240" pan="0" key="57" len="96" vol="129"/>
+          <note pos="240" pan="0" key="52" len="96" vol="129"/>
+          <note pos="288" pan="0" key="65" len="96" vol="129"/>
+          <note pos="336" pan="0" key="62" len="48" vol="129"/>
+          <note pos="336" pan="0" key="57" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="1536" name="FreeBoy" muted="0" steps="16" type="1">
+          <note pos="0" pan="0" key="65" len="192" vol="129"/>
+          <note pos="0" pan="0" key="62" len="48" vol="129"/>
+          <note pos="0" pan="0" key="57" len="48" vol="129"/>
+          <note pos="0" pan="0" key="54" len="48" vol="129"/>
+          <note pos="0" pan="0" key="51" len="48" vol="129"/>
+          <note pos="48" pan="0" key="60" len="48" vol="129"/>
+          <note pos="48" pan="0" key="56" len="48" vol="129"/>
+          <note pos="96" pan="0" key="62" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="96" pan="0" key="54" len="48" vol="129"/>
+          <note pos="96" pan="0" key="51" len="48" vol="129"/>
+          <note pos="144" pan="0" key="60" len="48" vol="129"/>
+          <note pos="144" pan="0" key="56" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="1728" name="FreeBoy" muted="0" steps="16" type="1">
+          <note pos="0" pan="0" key="65" len="192" vol="129"/>
+          <note pos="0" pan="0" key="62" len="48" vol="129"/>
+          <note pos="0" pan="0" key="57" len="48" vol="129"/>
+          <note pos="0" pan="0" key="54" len="48" vol="129"/>
+          <note pos="0" pan="0" key="51" len="48" vol="129"/>
+          <note pos="48" pan="0" key="60" len="48" vol="129"/>
+          <note pos="48" pan="0" key="56" len="48" vol="129"/>
+          <note pos="96" pan="0" key="62" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="96" pan="0" key="54" len="48" vol="129"/>
+          <note pos="96" pan="0" key="51" len="48" vol="129"/>
+          <note pos="144" pan="0" key="60" len="48" vol="129"/>
+          <note pos="144" pan="0" key="56" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="1920" name="FreeBoy" muted="0" steps="16" type="1">
+          <note pos="0" pan="0" key="65" len="192" vol="129"/>
+          <note pos="0" pan="0" key="62" len="48" vol="129"/>
+          <note pos="0" pan="0" key="57" len="48" vol="129"/>
+          <note pos="0" pan="0" key="54" len="48" vol="129"/>
+          <note pos="0" pan="0" key="51" len="48" vol="129"/>
+          <note pos="48" pan="0" key="60" len="48" vol="129"/>
+          <note pos="48" pan="0" key="56" len="48" vol="129"/>
+          <note pos="96" pan="0" key="62" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="96" pan="0" key="54" len="48" vol="129"/>
+          <note pos="96" pan="0" key="51" len="48" vol="129"/>
+          <note pos="144" pan="0" key="60" len="48" vol="129"/>
+          <note pos="144" pan="0" key="56" len="48" vol="129"/>
+        </pattern>
+        <pattern pos="2112" name="FreeBoy" muted="0" steps="16" type="1">
+          <note pos="0" pan="0" key="65" len="192" vol="129"/>
+          <note pos="0" pan="0" key="62" len="48" vol="129"/>
+          <note pos="0" pan="0" key="57" len="48" vol="129"/>
+          <note pos="0" pan="0" key="54" len="48" vol="129"/>
+          <note pos="0" pan="0" key="51" len="48" vol="129"/>
+          <note pos="48" pan="0" key="60" len="48" vol="129"/>
+          <note pos="48" pan="0" key="56" len="48" vol="129"/>
+          <note pos="96" pan="0" key="62" len="48" vol="129"/>
+          <note pos="96" pan="0" key="57" len="48" vol="129"/>
+          <note pos="96" pan="0" key="54" len="48" vol="129"/>
+          <note pos="96" pan="0" key="51" len="48" vol="129"/>
+          <note pos="144" pan="0" key="60" len="48" vol="129"/>
+          <note pos="144" pan="0" key="56" len="48" vol="129"/>
+        </pattern>
+      </track>
+    </trackcontainer>
+    <track solo="0" name="Automation track" muted="0" type="6">
+      <automationtrack/>
+      <automationpattern pos="0" name="Numerator" len="192" prog="0" tens="1" mute="0"/>
+      <automationpattern pos="0" name="Denominator" len="192" prog="0" tens="1" mute="0"/>
+      <automationpattern pos="0" name="Tempo" len="192" prog="0" tens="1" mute="0"/>
+      <automationpattern pos="0" name="Master volume" len="192" prog="0" tens="1" mute="0"/>
+      <automationpattern pos="0" name="Master pitch" len="192" prog="0" tens="1" mute="0"/>
+      <automationpattern pos="0" name="Numerator" len="192" prog="0" tens="1" mute="0"/>
+      <automationpattern pos="0" name="Denominator" len="192" prog="0" tens="1" mute="0"/>
+      <automationpattern pos="0" name="Tempo" len="192" prog="0" tens="1" mute="0"/>
+      <automationpattern pos="0" name="Master volume" len="192" prog="0" tens="1" mute="0"/>
+      <automationpattern pos="0" name="Master pitch" len="192" prog="0" tens="1" mute="0"/>
+    </track>
+    <fxmixer x="821" maximized="0" width="535" visible="0" height="333" y="326" minimized="0">
+      <fxchannel volume="1" muted="0" name="Master" num="0" soloed="0">
+        <fxchain enabled="0" numofeffects="0"/>
+      </fxchannel>
+    </fxmixer>
+    <ControllerRackView x="580" maximized="0" width="350" visible="0" height="200" y="727" minimized="0"/>
+    <pianoroll x="6" maximized="0" width="860" visible="1" height="480" y="729" minimized="0"/>
+    <automationeditor x="7" maximized="0" width="860" visible="1" height="400" y="322" minimized="0"/>
+    <projectnotes x="656" maximized="0" width="780" visible="0" height="400" y="837" minimized="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Ubuntu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]></projectnotes>
+    <timeline lp1pos="1536" lpstate="1" lp0pos="0"/>
+    <controllers/>
+  </song>
+</lmms-project>

@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creatorversion="1.2.2" type="song" version="1.0" creator="LMMS">
+  <head mastervol="100" timesig_numerator="4" masterpitch="0" timesig_denominator="4" bpm="120"/>
+  <song>
+    <trackcontainer visible="1" type="song" x="5" width="600" y="5" minimized="0" height="398" maximized="0">
+      <track muted="0" type="0" solo="0" name="TripleOscillator">
+        <instrumenttrack pan="0" pitchrange="1" usemasterpitch="1" vol="16.800001" pitch="-8" basenote="57" fxch="0">
+          <instrument name="tripleoscillator">
+            <tripleoscillator phoffset0="0" finer2="0" vol0="33" coarse1="-12" stphdetun2="0" wavetype2="0" pan2="0" finel2="0" stphdetun1="0" modalgo3="2" finer1="0" wavetype0="0" pan1="0" userwavefile1="" vol2="0" finel1="0" coarse0="0" vol1="0" modalgo2="3" finel0="0" wavetype1="0" phoffset2="0" finer0="0" phoffset1="0" coarse2="-24" modalgo1="3" userwavefile0="" pan0="0" userwavefile2="" stphdetun0="0"/>
+          </instrument>
+          <eldata ftype="0" fcut="14000" fres="0.5" fwet="0">
+            <elvol sustain="0.5" att="0" rel="0.1" lspd_numerator="4" pdel="0" lspd_denominator="4" lamt="0" latt="0" amt="0" ctlenvamt="0" lspd="0.1" lshp="0" hold="0.5" lspd_syncmode="0" dec="0.5" x100="0" lpdel="0" userwavefile=""/>
+            <elcut sustain="0.5" att="0" rel="0.1" lspd_numerator="4" pdel="0" lspd_denominator="4" lamt="0" latt="0" amt="0" ctlenvamt="0" lspd="0.1" lshp="0" hold="0.5" lspd_syncmode="0" dec="0.5" x100="0" lpdel="0" userwavefile=""/>
+            <elres sustain="0.5" att="0" rel="0.1" lspd_numerator="4" pdel="0" lspd_denominator="4" lamt="0" latt="0" amt="0" ctlenvamt="0" lspd="0.1" lshp="0" hold="0.5" lspd_syncmode="0" dec="0.5" x100="0" lpdel="0" userwavefile=""/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arptime_numerator="4" arptime_syncmode="0" arptime="100" arp-enabled="0" arpcycle="0" arprange="1" arpdir="0" arpmode="0" arpskip="0" arpmiss="0" arpgate="100" arp="0" arptime_denominator="4"/>
+          <midiport outputprogram="1" readable="0" basevelocity="63" writable="0" inputcontroller="0" outputchannel="1" outputcontroller="0" fixedoutputnote="-1" fixedinputvelocity="-1" fixedoutputvelocity="-1" inputchannel="0"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <pattern muted="0" steps="16" type="1" pos="0" name="TripleOscillator">
+          <note pan="0" key="53" len="96" pos="0" vol="100"/>
+          <note pan="0" key="48" len="192" pos="0" vol="100"/>
+          <note pan="0" key="52" len="192" pos="96" vol="100"/>
+          <note pan="0" key="50" len="192" pos="192" vol="100"/>
+          <note pan="0" key="53" len="192" pos="288" vol="100"/>
+          <note pan="0" key="52" len="192" pos="384" vol="100"/>
+          <note pan="0" key="50" len="192" pos="480" vol="100"/>
+          <note pan="0" key="48" len="192" pos="576" vol="100"/>
+          <note pan="0" key="53" len="96" pos="672" vol="100"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" solo="0" name="OpulenZ">
+        <instrumenttrack pan="0" pitchrange="1" usemasterpitch="1" vol="100" pitch="0" basenote="57" fxch="0">
+          <instrument name="OPL2">
+            <OPL2 op1_vib="0" op1_s="3" op2_trem="0" op1_lvl="62" op2_perc="0" fm="1" op1_trem="1" op2_r="12" feedback="0" op1_r="10" op2_waveform="0" op2_lvl="63" op2_s="14" op1_scale="0" op2_d="3" op2_vib="1" op1_perc="0" op2_ksr="0" trem_depth="0" op1_waveform="0" op1_mul="0" op2_scale="0" op2_mul="1" op1_ksr="0" op2_a="1" op1_a="14" op1_d="14" vib_depth="0"/>
+          </instrument>
+          <eldata ftype="0" fcut="14000" fres="0.5" fwet="0">
+            <elvol sustain="0.5" att="0" rel="0.1" lspd_numerator="4" pdel="0" lspd_denominator="4" lamt="0" latt="0" amt="0" ctlenvamt="0" lspd="0.1" lshp="0" hold="0.5" lspd_syncmode="0" dec="0.5" x100="0" lpdel="0" userwavefile=""/>
+            <elcut sustain="0.5" att="0" rel="0.1" lspd_numerator="4" pdel="0" lspd_denominator="4" lamt="0" latt="0" amt="0" ctlenvamt="0" lspd="0.1" lshp="0" hold="0.5" lspd_syncmode="0" dec="0.5" x100="0" lpdel="0" userwavefile=""/>
+            <elres sustain="0.5" att="0" rel="0.1" lspd_numerator="4" pdel="0" lspd_denominator="4" lamt="0" latt="0" amt="0" ctlenvamt="0" lspd="0.1" lshp="0" hold="0.5" lspd_syncmode="0" dec="0.5" x100="0" lpdel="0" userwavefile=""/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arptime_numerator="4" arptime_syncmode="0" arptime="200" arp-enabled="0" arpcycle="0" arprange="1" arpdir="0" arpmode="0" arpskip="0" arpmiss="0" arpgate="100" arp="0" arptime_denominator="4"/>
+          <midiport outputprogram="1" readable="0" basevelocity="63" writable="0" inputcontroller="0" outputchannel="1" outputcontroller="0" fixedoutputnote="-1" fixedinputvelocity="-1" fixedoutputvelocity="-1" inputchannel="0"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <pattern muted="0" steps="16" type="0" pos="192" name="OpulenZ"/>
+        <pattern muted="0" steps="16" type="1" pos="0" name="OpulenZ">
+          <note pan="0" key="28" len="24" pos="0" vol="100"/>
+          <note pan="0" key="37" len="24" pos="24" vol="100"/>
+          <note pan="0" key="28" len="24" pos="48" vol="100"/>
+          <note pan="0" key="37" len="24" pos="72" vol="100"/>
+          <note pan="0" key="28" len="24" pos="96" vol="100"/>
+          <note pan="0" key="36" len="24" pos="120" vol="100"/>
+          <note pan="0" key="28" len="24" pos="144" vol="100"/>
+          <note pan="0" key="33" len="24" pos="168" vol="100"/>
+          <note pan="0" key="28" len="24" pos="192" vol="100"/>
+          <note pan="0" key="33" len="24" pos="216" vol="100"/>
+          <note pan="0" key="28" len="24" pos="240" vol="100"/>
+          <note pan="0" key="35" len="24" pos="264" vol="100"/>
+          <note pan="0" key="28" len="24" pos="288" vol="100"/>
+          <note pan="0" key="33" len="24" pos="312" vol="100"/>
+          <note pan="0" key="28" len="24" pos="336" vol="100"/>
+          <note pan="0" key="31" len="24" pos="360" vol="100"/>
+          <note pan="0" key="28" len="24" pos="384" vol="100"/>
+          <note pan="0" key="29" len="24" pos="408" vol="100"/>
+          <note pan="0" key="28" len="24" pos="432" vol="100"/>
+          <note pan="0" key="33" len="24" pos="456" vol="100"/>
+          <note pan="0" key="28" len="24" pos="480" vol="100"/>
+          <note pan="0" key="35" len="24" pos="504" vol="100"/>
+          <note pan="0" key="28" len="24" pos="528" vol="100"/>
+          <note pan="0" key="36" len="24" pos="552" vol="100"/>
+          <note pan="0" key="28" len="24" pos="576" vol="100"/>
+          <note pan="0" key="35" len="24" pos="600" vol="100"/>
+          <note pan="0" key="28" len="24" pos="624" vol="100"/>
+          <note pan="0" key="33" len="24" pos="648" vol="100"/>
+          <note pan="0" key="28" len="24" pos="672" vol="100"/>
+          <note pan="0" key="33" len="24" pos="696" vol="100"/>
+          <note pan="0" key="28" len="24" pos="720" vol="100"/>
+          <note pan="0" key="35" len="24" pos="744" vol="100"/>
+        </pattern>
+      </track>
+      <track muted="0" type="0" solo="0" name="FreeBoy">
+        <instrumenttrack pan="0" pitchrange="1" usemasterpitch="1" vol="12" pitch="0" basenote="57" fxch="0">
+          <instrument name="papu">
+            <papu so1vol="7" ch4ssl="0" ch2so2="1" ch3so1="1" Bass="461" ch1wpd="2" ch2vol="15" ch1vsd="0" ch1so2="1" ch3vol="3" so2vol="7" st="4" ch4vol="15" ch4so2="0" ch2vsd="0" srw="0" ch1so1="1" sampleShape="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=" ch2ssl="0" ch1vol="15" sd="0" ch2so1="1" ch2wpd="2" ch4vsd="0" ch1ssl="0" Treble="-20" srs="4" ch3so2="1" ch4so1="0"/>
+          </instrument>
+          <eldata ftype="0" fcut="14000" fres="0.5" fwet="0">
+            <elvol sustain="0.5" att="0" rel="0.1" lspd_numerator="4" pdel="0" lspd_denominator="4" lamt="0" latt="0" amt="0" ctlenvamt="0" lspd="0.1" lshp="0" hold="0.5" lspd_syncmode="0" dec="0.5" x100="0" lpdel="0" userwavefile=""/>
+            <elcut sustain="0.5" att="0" rel="0.1" lspd_numerator="4" pdel="0" lspd_denominator="4" lamt="0" latt="0" amt="0" ctlenvamt="0" lspd="0.1" lshp="0" hold="0.5" lspd_syncmode="0" dec="0.5" x100="0" lpdel="0" userwavefile=""/>
+            <elres sustain="0.5" att="0" rel="0.1" lspd_numerator="4" pdel="0" lspd_denominator="4" lamt="0" latt="0" amt="0" ctlenvamt="0" lspd="0.1" lshp="0" hold="0.5" lspd_syncmode="0" dec="0.5" x100="0" lpdel="0" userwavefile=""/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arptime_numerator="4" arptime_syncmode="0" arptime="200" arp-enabled="0" arpcycle="0" arprange="1" arpdir="0" arpmode="0" arpskip="0" arpmiss="0" arpgate="100" arp="0" arptime_denominator="4"/>
+          <midiport outputprogram="1" readable="0" basevelocity="63" writable="0" inputcontroller="0" outputchannel="1" outputcontroller="0" fixedoutputnote="-1" fixedinputvelocity="-1" fixedoutputvelocity="-1" inputchannel="0"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>
+        <pattern muted="0" steps="16" type="1" pos="0" name="FreeBoy">
+          <note pan="0" key="65" len="48" pos="0" vol="100"/>
+          <note pan="0" key="62" len="48" pos="0" vol="100"/>
+          <note pan="0" key="64" len="48" pos="48" vol="100"/>
+          <note pan="0" key="55" len="48" pos="48" vol="100"/>
+          <note pan="0" key="64" len="48" pos="96" vol="100"/>
+          <note pan="0" key="62" len="48" pos="96" vol="100"/>
+          <note pan="0" key="55" len="48" pos="96" vol="100"/>
+          <note pan="0" key="64" len="48" pos="144" vol="100"/>
+          <note pan="0" key="62" len="48" pos="144" vol="100"/>
+          <note pan="0" key="59" len="48" pos="144" vol="100"/>
+          <note pan="0" key="57" len="48" pos="144" vol="100"/>
+          <note pan="0" key="61" len="48" pos="192" vol="100"/>
+          <note pan="0" key="64" len="48" pos="240" vol="100"/>
+          <note pan="0" key="58" len="48" pos="240" vol="100"/>
+          <note pan="0" key="58" len="48" pos="288" vol="100"/>
+          <note pan="0" key="55" len="48" pos="288" vol="100"/>
+          <note pan="0" key="58" len="48" pos="336" vol="100"/>
+          <note pan="0" key="53" len="48" pos="336" vol="100"/>
+          <note pan="0" key="60" len="48" pos="384" vol="100"/>
+          <note pan="0" key="55" len="48" pos="384" vol="100"/>
+          <note pan="0" key="60" len="48" pos="432" vol="100"/>
+          <note pan="0" key="55" len="48" pos="432" vol="100"/>
+          <note pan="0" key="60" len="48" pos="480" vol="100"/>
+          <note pan="0" key="53" len="48" pos="480" vol="100"/>
+          <note pan="0" key="59" len="48" pos="528" vol="100"/>
+          <note pan="0" key="53" len="48" pos="528" vol="100"/>
+          <note pan="0" key="60" len="48" pos="576" vol="100"/>
+          <note pan="0" key="57" len="48" pos="576" vol="100"/>
+          <note pan="0" key="60" len="48" pos="624" vol="100"/>
+          <note pan="0" key="56" len="48" pos="624" vol="100"/>
+          <note pan="0" key="60" len="48" pos="672" vol="100"/>
+          <note pan="0" key="55" len="48" pos="672" vol="100"/>
+          <note pan="0" key="57" len="48" pos="720" vol="100"/>
+          <note pan="0" key="53" len="48" pos="720" vol="100"/>
+        </pattern>
+      </track>
+    </trackcontainer>
+    <track muted="0" type="6" solo="0" name="Automation track">
+      <automationtrack/>
+      <automationpattern pos="0" len="192" prog="0" mute="0" name="Numerator" tens="1"/>
+      <automationpattern pos="0" len="192" prog="0" mute="0" name="Denominator" tens="1"/>
+      <automationpattern pos="0" len="192" prog="0" mute="0" name="Tempo" tens="1"/>
+      <automationpattern pos="0" len="192" prog="0" mute="0" name="Master volume" tens="1"/>
+      <automationpattern pos="0" len="192" prog="0" mute="0" name="Master pitch" tens="1"/>
+    </track>
+    <fxmixer visible="0" x="5" width="543" y="310" minimized="0" height="333" maximized="0">
+      <fxchannel muted="0" num="0" soloed="0" volume="1" name="Master">
+        <fxchain numofeffects="0" enabled="0"/>
+      </fxchannel>
+    </fxmixer>
+    <ControllerRackView visible="0" x="1067" width="350" y="381" minimized="0" height="200" maximized="0"/>
+    <pianoroll visible="1" x="10" width="1131" y="418" minimized="0" height="496" maximized="0"/>
+    <automationeditor visible="0" x="651" width="860" y="109" minimized="0" height="400" maximized="0"/>
+    <projectnotes visible="0" x="700" width="780" y="10" minimized="0" height="400" maximized="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Ubuntu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]></projectnotes>
+    <timeline lp1pos="768" lp0pos="0" lpstate="1"/>
+    <controllers/>
+  </song>
+</lmms-project>
