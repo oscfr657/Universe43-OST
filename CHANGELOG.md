@@ -3,6 +3,7 @@
 
 ## 2026-02-23 ##
 
+    docs: Updated CHANGELOG and README with Connected0.1
     docs: Added a CHANGELOG.
     feat: Added tracks for Connedcted0.1.
     feat: Added space3.
