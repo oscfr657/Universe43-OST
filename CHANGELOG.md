@@ -1,6 +1,12 @@
 
 # Commits #
 
+## 2026-07-05 ##
+
+    docs: Updated CHANGELOG and added Beta-Run to README.md
+    feat: Added the first Beta-Run track Sub 60
+    chore: Added todo.txt to gitignore
+
 ## 2026-02-23 ##
 
     docs: Updated CHANGELOG and README with Connected0.1

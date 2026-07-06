@@ -11,7 +11,7 @@
 
 4. space3
 
-## Connected0.1 ##
+## Connected 0.1 ##
 
 1. menu loop
 
@@ -24,6 +24,14 @@
 5. lakes loop
 
 6. city roof loop
+
+## Beta-Run (Run fool)! ##
+
+1. Sub 60
+
+## Installation ##
+
+https://docs.lmms.io/user-manual/getting-started/installation
 
 ## Sound fonts ##
 
